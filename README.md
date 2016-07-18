@@ -23,6 +23,5 @@ The following packages are associated with this module,
 1. Browser Components 
 2. index.html
 ```
-
- ### Future Work:
+### Future Work:
 Need to associate and compile the "HTML file consisting of three visualizations" into the node application and bind the visualization dynamically using the data from json/csv file.
